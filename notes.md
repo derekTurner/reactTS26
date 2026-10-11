@@ -1,0 +1,1 @@
+# General notes T1 session 2026-27
