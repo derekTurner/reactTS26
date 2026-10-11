@@ -8,7 +8,6 @@ interface Company{
   bs:string;
 }
 
-
 interface User {
   id: number;
   name: string;
